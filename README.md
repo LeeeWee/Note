@@ -18,3 +18,5 @@ Implementing a Neural Network from Scratch in Python: http://www.wildml.com/2015
    Github: https://github.com/pangolulu/neural-network-from-scratch
 
 Implementing Recurrent Neural Network from Scratch: https://github.com/pangolulu/rnn-from-scratch
+
+DeepLearning for Information Retrieval: https://github.com/pangolulu/rnn-from-scratch
