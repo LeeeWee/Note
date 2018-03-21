@@ -26,3 +26,5 @@ Implementing Recurrent Neural Network from Scratch: https://github.com/pangolulu
 DeepLearning for Information Retrieval: https://github.com/pangolulu/rnn-from-scratch
 
 RankLib: https://sourceforge.net/projects/lemur/?source=navbar
+
+Learning to Rank using Gradient Descent: https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf
