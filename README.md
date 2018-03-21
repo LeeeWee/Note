@@ -16,4 +16,5 @@ Word2Vector: word2vec 中的数学原理详解 https://www.cnblogs.com/peghoty/p
 
 Implementing a Neural Network from Scratch in Python: http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
    Github: https://github.com/pangolulu/neural-network-from-scratch
+
 Implementing Recurrent Neural Network from Scratch: https://github.com/pangolulu/rnn-from-scratch
