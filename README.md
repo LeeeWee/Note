@@ -27,4 +27,6 @@ DeepLearning for Information Retrieval: https://github.com/pangolulu/rnn-from-sc
 
 RankLib: https://sourceforge.net/projects/lemur/?source=navbar
 
+RankNet & LambdaRank: https://blog.csdn.net/u014374284/article/details/49385065, https://blog.csdn.net/huagong_adu/article/details/40710305
+
 Learning to Rank using Gradient Descent: https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf
