@@ -34,3 +34,5 @@ Learning to Rank using Gradient Descent: https://icml.cc/2015/wp-content/uploads
 From RankNet to LambdaRank to LambdaMART: An Overview: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf
 
 CRF introduction: https://www.zhihu.com/question/35866596
+
+graph similarity: http://www.cnblogs.com/zhangchaoyang/articles/4575809.html
