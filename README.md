@@ -36,3 +36,5 @@ From RankNet to LambdaRank to LambdaMART: An Overview: https://www.microsoft.com
 CRF introduction: https://www.zhihu.com/question/35866596
 
 graph similarity: http://www.cnblogs.com/zhangchaoyang/articles/4575809.html
+
+kernel methods: https://www.cs.utah.edu/~piyush/teaching/15-9-slides.pdf
