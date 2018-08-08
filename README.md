@@ -38,3 +38,5 @@ CRF introduction: https://www.zhihu.com/question/35866596
 graph similarity: http://www.cnblogs.com/zhangchaoyang/articles/4575809.html
 
 kernel methods: https://www.cs.utah.edu/~piyush/teaching/15-9-slides.pdf, https://blog.csdn.net/ljp812184246/article/details/49338117, http://www.powercam.cc/home.php?user=chli&f=slide&v=list&fid=4097
+
+https://blog.csdn.net/dashuniuniu/article/details/52224882
