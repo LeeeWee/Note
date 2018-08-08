@@ -40,3 +40,5 @@ graph similarity: http://www.cnblogs.com/zhangchaoyang/articles/4575809.html
 kernel methods: https://www.cs.utah.edu/~piyush/teaching/15-9-slides.pdf, https://blog.csdn.net/ljp812184246/article/details/49338117, http://www.powercam.cc/home.php?user=chli&f=slide&v=list&fid=4097
 
 https://blog.csdn.net/dashuniuniu/article/details/52224882
+
+http://www.valleytalk.org/wp-content/uploads/2011/11/%E7%A8%8B%E5%BA%8F%E5%88%86%E6%9E%90-%E5%8E%9F%E7%90%86%E9%83%A8%E5%88%86%E5%85%A8.pdf
